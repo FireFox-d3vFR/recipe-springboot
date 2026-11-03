@@ -1,0 +1,6 @@
+[submodule "api"]
+	path = api
+	url = https://github.com/FireFox-d3vFR/recipe-springboot-api.git
+[submodule "app"]
+	path = app
+	url = https://github.com/FireFox-d3vFR/recipe-springboot-app.git
